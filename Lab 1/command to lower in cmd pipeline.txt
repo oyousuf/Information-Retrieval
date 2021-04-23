@@ -1,0 +1,1 @@
+cat movies.txt | tr "[:upper:]" "[:lower:]" > movies_lower.txt
